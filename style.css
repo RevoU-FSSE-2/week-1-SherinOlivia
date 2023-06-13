@@ -1,10 +1,12 @@
-header {
+header, body {
     background-color: #212A3E;
-    text-align: center;
     padding: 15px 15px ;
 }
 
 .introIntro {
     background-color: #394867;
+    font-family: "Caveat";
+    font-size: 75px;
+    text-align: center;
     color: #9BA4B5;
 }
