@@ -5,8 +5,9 @@ header, body {
 
 .introIntro {
     background-color: #394867;
-    font-family: "Caveat";
+    font-family: 'Caveat';
     font-size: 75px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
     color: #9BA4B5;
 }
