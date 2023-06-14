@@ -7,8 +7,95 @@ header, body {
     background-color: #394867;
     border-radius: 5px ;
     font-family: 'Caveat';
+    color: #9BA4B5;
     font-size: 75px;
     display: flex;
     justify-content: center;
+    :hover {
+        background-color: rgb(94,114,155);
+        background-color: linear-gradient(0deg, rgba(94,114,155,1) 10%, rgba(57,72,103,1) 90%);
+    }
+}
+
+.navigations {
+    font-family: 'Caveat';
     color: #9BA4B5;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    :visited {
+        color: rgb(138, 15, 50);
+    }
+}
+
+.aboutMe {
+    background-color: #9BA4B5;
+    padding: 10px 20px;
+    border-radius: 15px;
+    width: 50%;
+}
+
+.greeting {
+    font-family: 'Caveat';
+    color: #394867;
+    font-size: 32px;
+    display: flex;
+    justify-content: left;
+}
+
+.briefIntro {
+    font-family: 'Caveat';
+    color: #394867;
+    font-size: 20px;
+    display: flex;
+    justify-content: left;
+}
+
+.briefIntro2 {
+    font-family: 'Caveat';
+    color: #212A3E;
+    font-size: 20px;
+    display: flex;
+    justify-content: left;
+}
+
+.tmiFactory {
+    font-family: 'Caveat';
+    color: #212A3E;
+    font-size: 20px;
+}
+
+ul img {
+    height: 20px;
+    width: 30px;
+}
+.photoTime img {
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.socialMedia img {
+    max-width: 100px;
+    max-height: 50px;
+    object-fit: fill;
+
+}
+
+button {
+    border-radius: 15px;
+    background-color: #9BA4B5;
+    color: #394867;
+    font-family: 'Caveat';
+    font-size: medium;
+}
+
+.closingText {
+    background-color: #394867;
+    border-radius: 5px ;
+    font-family: 'Caveat';
+    color: #9BA4B5;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
 }
