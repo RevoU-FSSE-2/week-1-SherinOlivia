@@ -5,6 +5,7 @@ header, body {
 
 .introIntro {
     background-color: #394867;
+    border-radius: 5px ;
     font-family: 'Caveat';
     font-size: 75px;
     display: flex;
