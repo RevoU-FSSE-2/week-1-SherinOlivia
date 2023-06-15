@@ -4,10 +4,14 @@
 ## My name is Sherin Olivia 
 ## This file is dedicated as part of the first week project involving git, html, css, and javascript
 
-### Self-note : 
-- main content with picture and brief self-intro 
-- nav links (ig, linkedin, project site through netlify)
-- change the colours cause basic doesn't define me.
+##Check check it! https://roozone.netlify.app/
+
+<hr>
+## Things to check out while you're there
+- Brief introduction about myself
+- Several TMI as a bonus
+- My social media links! 
+- A bonus motivational video, curated just for you!
 
 I may not bite but curiousity may or may not kill the cat~
 
