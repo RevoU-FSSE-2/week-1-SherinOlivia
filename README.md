@@ -8,7 +8,7 @@
 
 <hr>
 
-## Things to look out while you're there
+## Things to look out for while you're there
 - Brief introduction about myself
 - Several TMI as a bonus
 - My social media links! 

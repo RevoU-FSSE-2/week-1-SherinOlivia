@@ -97,11 +97,14 @@ ul img {
     border-color: #6683bd;
 }
 
-.socialMedia img {
+.socialMedia {
     object-fit: fill;
-    margin-left: 50px; 
+    margin-left: 10%;
     margin-top: 15px;
     padding-left: 15px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .instagramLogo {
@@ -110,7 +113,9 @@ ul img {
 }
 
 .linkedLogo {
-    width: 70px;
+    margin-left: 5px;
+    margin-right: 3px;
+    width: 80px;
     height : 50px;
 }
 
@@ -120,6 +125,7 @@ ul img {
 }
 
 .youtubeLogo {
+    margin-left: 15px;
     width: 70px;
     height : 47px;
 }
@@ -136,7 +142,6 @@ button.requestButton {
     button:hover {
         background-color: #6683bd;
     }
-
 
 .closingText {
     background-color: #394867;
