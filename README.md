@@ -2,12 +2,13 @@
 
 # Hi!
 ## My name is Sherin Olivia 
-## This file is dedicated as part of the first week project involving git, html, css, and javascript
+## This repository was prepared as part of the first week project involving git, html, css, and javascript
 
-##Check check it! https://roozone.netlify.app/
+## Check check this! https://roozone.netlify.app/
 
 <hr>
-## Things to check out while you're there
+
+## Things to look out while you're there
 - Brief introduction about myself
 - Several TMI as a bonus
 - My social media links! 

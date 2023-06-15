@@ -98,22 +98,45 @@ ul img {
 }
 
 .socialMedia img {
-    max-width: 100px;
-    max-height: 100px;
     object-fit: fill;
-    margin-left: 55px; 
+    margin-left: 50px; 
     margin-top: 15px;
     padding-left: 15px;
 }
 
-button {
+.instagramLogo {
+    width: 70px;
+    height : 50px;
+}
+
+.linkedLogo {
+    width: 70px;
+    height : 50px;
+}
+
+.discordLogo {
+    width: 70px;
+    height : 55px;
+}
+
+.youtubeLogo {
+    width: 70px;
+    height : 47px;
+}
+
+button.requestButton {
+    margin-top: 5px;
     border-radius: 15px;
     background-color: #9BA4B5;
     color: #394867;
     font-family: 'Caveat';
     font-size: medium;
-    align-self: center;
 }
+
+    button:hover {
+        background-color: #6683bd;
+    }
+
 
 .closingText {
     background-color: #394867;
