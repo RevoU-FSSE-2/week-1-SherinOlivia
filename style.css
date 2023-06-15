@@ -28,6 +28,14 @@ header, body {
     }
 }
 
+.photoTime img {
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    float: right;
+   
+}
+
 .aboutMe {
     background-color: #9BA4B5;
     padding: 10px 20px;
@@ -68,11 +76,6 @@ header, body {
 ul img {
     height: 20px;
     width: 30px;
-}
-.photoTime img {
-    height: 300px;
-    width: 300px;
-    border-radius: 20px;
 }
 
 .socialMedia img {
