@@ -29,18 +29,22 @@ header, body {
 }
 
 .photoTime img {
-    height: 500px;
+    height: 530px;
     width: 500px;
     border-radius: 20px;
     float: right;
-   
+    margin-top: 15px;
+    margin-right: 100px;
 }
 
 .aboutMe {
     background-color: #9BA4B5;
     padding: 10px 20px;
     border-radius: 15px;
-    width: 30%;
+    border-bottom-style: groove;
+    border-color: #6683bd;
+    width: 40%;
+    margin-left: 20px;
 }
 
 .greeting {
@@ -49,9 +53,13 @@ header, body {
     font-size: 32px;
     display: flex;
     justify-content: left;
+    border-bottom-style: groove;
+    border-width: 5px;
+    border-color: #6683bd;
 }
 
 .briefIntro {
+    margin-top: 5px;
     font-family: 'Caveat';
     color: #394867;
     font-size: 20px;
@@ -60,6 +68,7 @@ header, body {
 }
 
 .briefIntro2 {
+    margin-top: 20px;
     font-family: 'Caveat';
     color: #212A3E;
     font-size: 20px;
@@ -78,11 +87,23 @@ ul img {
     width: 30px;
 }
 
+.greetingBye {
+    font-family: 'Caveat';
+    color: #394867;
+    font-size: 32px;
+    display: flex;
+    justify-content: left;
+    border-top-style: groove;
+    border-color: #6683bd;
+}
+
 .socialMedia img {
     max-width: 100px;
-    max-height: 50px;
+    max-height: 100px;
     object-fit: fill;
-
+    margin-left: 55px; 
+    margin-top: 15px;
+    padding-left: 15px;
 }
 
 button {
@@ -91,14 +112,18 @@ button {
     color: #394867;
     font-family: 'Caveat';
     font-size: medium;
+    align-self: center;
 }
 
 .closingText {
     background-color: #394867;
     border-radius: 5px ;
+    border-top-style: groove;
+    border-color: #6683bd;
     font-family: 'Caveat';
     color: #9BA4B5;
     font-size: 70px;
     display: flex;
     justify-content: center;
+    margin-top: 10px;
 }
