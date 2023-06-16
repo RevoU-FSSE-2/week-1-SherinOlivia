@@ -20,3 +20,6 @@ I may not bite but curiousity may or may not kill the cat~
 
 
 Kuru Kuru~ Kuru Kuru~
+
+###### spoiler :
+<img src="/week-1-SherinOlivia/images/webcapture.jpeg" width="550px" height="550px"/>
