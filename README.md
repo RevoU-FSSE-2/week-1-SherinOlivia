@@ -2,7 +2,8 @@
 
 # Hi!
 ## My name is Sherin Olivia 
-## This repository was prepared as part of the first week project involving git, html, css, and javascript
+
+<p> This repository was prepared as part of the first week project involving git, html, css, and javascript. Wish me luck! <p>
 
 ## Check check this! https://roozone.netlify.app/
 
